@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "random": [
         "85.133.205.55",
-        "85.133.205.55"
+        "95.38.58.70"
     ],
     "hosts": {
         "metrics.fivem.net": "random",
