@@ -1,8 +1,7 @@
 {
     "version": "1.0.0",
 "random": [
-        "95.38.58.34",
-        "5.57.39.172"
+        "95.38.58.34"
     ],
     "hosts": {
         "metrics.fivem.net": "random",
